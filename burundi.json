@@ -1,0 +1,611 @@
+{
+  "persons": [
+    {
+      "gender": "Male",
+      "given_name": "Anicet",
+      "id": "anicet_niyonkuru",
+      "other_names": [
+        {
+          "name": "Niyonkuru",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Evariste",
+      "id": "evariste_ndayishimiye",
+      "other_names": [
+        {
+          "name": "Ndayishimiye",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Agathon",
+      "id": "agathon_rwasa",
+      "other_names": [
+        {
+          "name": "Rwasa",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Jacques",
+      "id": "jacques_bigirimana",
+      "other_names": [
+        {
+          "name": "Bigirimana",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Valentin",
+      "id": "valentin_kavakure",
+      "other_names": [
+        {
+          "name": "Kavakure",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Francis",
+      "id": "francis_rohero",
+      "other_names": [
+        {
+          "name": "Rohero",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Dieudonné",
+      "id": "dieudonné_nahimana",
+      "other_names": [
+        {
+          "name": "Nahimana",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Domitien",
+      "id": "domitien_ndayizeye",
+      "other_names": [
+        {
+          "name": "Ndayizeye",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Léonce",
+      "id": "léonce_ngendakumana",
+      "other_names": [
+        {
+          "name": "Ngendakumana",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Gaston",
+      "id": "gaston_sindimwo",
+      "other_names": [
+        {
+          "name": "Sindimwo",
+          "note": "alternate"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.ceniburundi.bi/2020/03/10/communique-les-resultats-de-lanalyse-des-candidatures-a-lelection-presidentielle-2020/"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Elias",
+      "id": "elias_buregure",
+      "other_names": [
+        {
+          "name": "Buregure",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Georges",
+      "id": "georges_hakizimana",
+      "other_names": [
+        {
+          "name": "Hakizimana",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Esperance",
+      "id": "esperance_ngerageze",
+      "other_names": [
+        {
+          "name": "Ngerageze",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Magnus",
+      "id": "magnus_nyandwi",
+      "other_names": [
+        {
+          "name": "Nyandwi",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Evelyne",
+      "id": "evelyne_nininahazwe",
+      "other_names": [
+        {
+          "name": "Nininahazwe",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Devote",
+      "id": "devote_ndayisenga",
+      "other_names": [
+        {
+          "name": "Ndayisenga",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Idi",
+      "id": "idi_radjabu_kabano",
+      "other_names": [
+        {
+          "name": "Radjabu Kabano",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Elisa",
+      "id": "elisa_me_nkerabirori",
+      "other_names": [
+        {
+          "name": "Me Nkerabirori",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Rubin",
+      "id": "rubin_bigirimana",
+      "other_names": [
+        {
+          "name": "Bigirimana",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Spés",
+      "id": "spés_gakuyano",
+      "other_names": [
+        {
+          "name": "Gakuyano",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Yvonne",
+      "id": "yvonne_girukwishaka",
+      "other_names": [
+        {
+          "name": "Girukwishaka",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Floribert",
+      "id": "floribert_sibomana",
+      "other_names": [
+        {
+          "name": "Sibomana",
+          "note": "alternate"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "party/conseil_des_patriotes",
+      "name": "Conseil Des Patriotes",
+      "classification": "party"
+    },
+    {
+      "id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "name": "Conseil National Pour la Défense de la Démocratie - Forces pour la Défense de la Démocratie",
+      "classification": "party"
+    },
+    {
+      "id": "party/congrès_national_pour_la_liberté",
+      "name": "Congrès National pour la Liberté",
+      "classification": "party"
+    },
+    {
+      "id": "party/forces_nationales_de_libération",
+      "name": "Forces Nationales de Libération",
+      "classification": "party"
+    },
+    {
+      "id": "party/front_populaire_national",
+      "name": "Front Populaire National",
+      "classification": "party"
+    },
+    {
+      "id": "party/independent",
+      "name": "INDEPENDENT",
+      "classification": "party"
+    },
+    {
+      "id": "party/kira_burundi",
+      "name": "Kira Burundi",
+      "classification": "party"
+    },
+    {
+      "id": "party/front_pour_la_démocratie_au_burundi",
+      "name": "Front pour la Démocratie au Burundi",
+      "classification": "party"
+    },
+    {
+      "id": "party/union_pour_le_progrès_national",
+      "name": "Union pour le Progrès national",
+      "classification": "party"
+    },
+    {
+      "id": "legislature",
+      "name": "Legislature",
+      "classification": "legislature"
+    }
+  ],
+  "memberships": [
+    {
+      "person_id": "anicet_niyonkuru",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_des_patriotes",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "evariste_ndayishimiye",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "agathon_rwasa",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/congrès_national_pour_la_liberté",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "jacques_bigirimana",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/forces_nationales_de_libération",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "valentin_kavakure",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/front_populaire_national",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "francis_rohero",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/independent",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "dieudonné_nahimana",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/independent",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "domitien_ndayizeye",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/kira_burundi",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "léonce_ngendakumana",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/front_pour_la_démocratie_au_burundi",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "gaston_sindimwo",
+      "organization_id": "legislature",
+      "post_id": "presidential_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/union_pour_le_progrès_national",
+      "area_id": "Q967",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "elias_buregure",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "georges_hakizimana",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "esperance_ngerageze",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "magnus_nyandwi",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "evelyne_nininahazwe",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "devote_ndayisenga",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "idi_radjabu_kabano",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "elisa_me_nkerabirori",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "rubin_bigirimana",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "spés_gakuyano",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "yvonne_girukwishaka",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    },
+    {
+      "person_id": "floribert_sibomana",
+      "organization_id": "legislature",
+      "post_id": "legislative_candidate",
+      "role": "member",
+      "on_behalf_of_id": "party/conseil_national_pour_la_défense_de_la_démocratie_-_forces_pour_la_défense_de_la_démocratie",
+      "area_id": "Q1816580",
+      "legislative_period_id": "term/2020_2025"
+    }
+  ],
+  "posts": [
+    {
+      "id": "presidential_candidate",
+      "label": "presidential_candidate",
+      "organization_id": "legislature"
+    },
+    {
+      "id": "legislative_candidate",
+      "label": "legislative_candidate",
+      "organization_id": "legislature"
+    }
+  ],
+  "events": [
+    {
+      "id": "term/2020",
+      "name": "2020_2025",
+      "classification": "legislative period"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q967",
+      "name": "BURUNDI",
+      "type": "constituency"
+    },
+    {
+      "id": "Q1816580",
+      "name": "MAIRIE",
+      "type": "constituency"
+    }
+  ],
+  "warnings": {
+    "skipped": [
+      "full_name",
+      "party_abbreviation",
+      "party_ids",
+      "fb_urls",
+      "ig_urls",
+      "wa_numbers",
+      "twitter_url",
+      "emails",
+      "photo_urls",
+      "term_id",
+      "status",
+      "legislative_membership",
+      "area_type",
+      "area_parent",
+      "event",
+      "event_id",
+      "post",
+      "post_id"
+    ]
+  }
+}
