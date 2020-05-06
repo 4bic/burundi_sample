@@ -383,17 +383,268 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Dieudonné",
+      "id": "dieudonné_muhayimana",
+      "name": "Dieudonné Muhayimana",
+      "other_names": [
+        {
+          "name": "Muhayimana",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Agnes",
+      "id": "agnes_kanyange",
+      "name": "Agnes Kanyange",
+      "other_names": [
+        {
+          "name": "Kanyange",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Therence",
+      "id": "therence_kaboneka",
+      "name": "Therence Kaboneka",
+      "other_names": [
+        {
+          "name": "Kaboneka",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Mediatrice",
+      "id": "mediatrice_niyohire",
+      "name": "Mediatrice Niyohire",
+      "other_names": [
+        {
+          "name": "Niyohire",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Claudine",
+      "id": "claudine_niyonsaba",
+      "name": "Claudine Niyonsaba",
+      "other_names": [
+        {
+          "name": "Niyonsaba",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "J.M Vianney",
+      "id": "j.m vianney_niyomwungere",
+      "name": "J.M Vianney Niyomwungere",
+      "other_names": [
+        {
+          "name": "Niyomwungere",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Innocent",
+      "id": "innocent_nitonge",
+      "name": "Innocent Nitonge",
+      "other_names": [
+        {
+          "name": "Nitonge",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Aline",
+      "id": "aline_nininarazwe",
+      "name": "Aline Nininarazwe",
+      "other_names": [
+        {
+          "name": "Nininarazwe",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Antoine",
+      "id": "antoine_ngendanzi",
+      "name": "Antoine Ngendanzi",
+      "other_names": [
+        {
+          "name": "Ngendanzi",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Serges",
+      "id": "serges_njebarikanuye",
+      "name": "Serges Njebarikanuye",
+      "other_names": [
+        {
+          "name": "Njebarikanuye",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Odette",
+      "id": "odette_bizumuremyi",
+      "name": "Odette Bizumuremyi",
+      "other_names": [
+        {
+          "name": "Bizumuremyi",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Leonie",
+      "id": "leonie_ndayishimiye",
+      "name": "Leonie Ndayishimiye",
+      "other_names": [
+        {
+          "name": "Ndayishimiye",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Pacifique",
+      "id": "pacifique_kaburo",
+      "name": "Pacifique Kaburo",
+      "other_names": [
+        {
+          "name": "Kaburo",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Medar",
+      "id": "medar_nkurunziza",
+      "name": "Medar Nkurunziza",
+      "other_names": [
+        {
+          "name": "Nkurunziza",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "given_name": "Micheline",
+      "id": "micheline_manirakiza",
+      "name": "Micheline Manirakiza",
+      "other_names": [
+        {
+          "name": "Manirakiza",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Innocent",
+      "id": "innocent_hakizimana",
+      "name": "Innocent Hakizimana",
+      "other_names": [
+        {
+          "name": "Hakizimana",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Richard",
+      "id": "richard_nduwimana",
+      "name": "Richard Nduwimana",
+      "other_names": [
+        {
+          "name": "Nduwimana",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "given_name": "Nestor",
+      "id": "nestor_nduwimana",
+      "name": "Nestor Nduwimana",
+      "other_names": [
+        {
+          "name": "Nduwimana",
+          "note": "alternate"
+        }
+      ]
     }
   ],
   "organizations": [
     {
-      "id": "Q19057827",
+      "id": "CDP",
       "name": "Conseil Des Patriotes",
       "classification": "party"
     },
     {
-      "id": "Q8620066",
+      "id": "Q2271402",
       "name": "Conseil National Pour la Défense de la Démocratie - Forces pour la Défense de la Démocratie",
+      "classification": "party"
+    },
+    {
+      "id": "CNL",
+      "name": "Congrès National pour la Liberté",
+      "classification": "party"
+    },
+    {
+      "id": "Q21476759",
+      "name": "Forces Nationales de Libération",
+      "classification": "party"
+    },
+    {
+      "id": "fpn_imboneza",
+      "name": "Front Populaire National",
+      "classification": "party"
+    },
+    {
+      "id": "Q327591",
+      "name": "independent politician",
+      "classification": "party"
+    },
+    {
+      "id": "kira_burundi",
+      "name": "Kira Burundi",
+      "classification": "party"
+    },
+    {
+      "id": "Q18712988",
+      "name": "Sahwanya Frodebu Iragi rya Ndadaye",
+      "classification": "party"
+    },
+    {
+      "id": "Q633163",
+      "name": "Union pour le Progrès national",
       "classification": "party"
     },
     {
@@ -408,7 +659,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "CDP",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -417,7 +668,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -426,7 +677,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "CNL",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -435,7 +686,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "Q21476759",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -444,7 +695,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "fpn_imboneza",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -453,7 +704,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "Q327591",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -462,7 +713,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "Q327591",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -471,7 +722,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "kira_burundi",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -480,7 +731,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "Q18712988",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -489,7 +740,7 @@
       "organization_id": "legislature",
       "post_id": "president_of_burundi_(q19057827)",
       "role": "member",
-      "on_behalf_of_id": "Q19057827",
+      "on_behalf_of_id": "Q633163",
       "area_id": "Q967",
       "legislative_period_id": "term/2020_burundian_presidential_election_(q83965692)"
     },
@@ -498,7 +749,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -507,7 +758,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -516,7 +767,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -525,7 +776,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -534,7 +785,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -543,7 +794,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -552,7 +803,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -561,7 +812,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -570,7 +821,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -579,7 +830,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -588,7 +839,7 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     },
@@ -597,8 +848,170 @@
       "organization_id": "legislature",
       "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
       "role": "member",
-      "on_behalf_of_id": "Q8620066",
+      "on_behalf_of_id": "Q2271402",
       "area_id": "Q1816580",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "dieudonné_muhayimana",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q18712988",
+      "area_id": "Q431385",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "agnes_kanyange",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q18712988",
+      "area_id": "Q431385",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "therence_kaboneka",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q18712988",
+      "area_id": "Q431385",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "mediatrice_niyohire",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q18712988",
+      "area_id": "Q431385",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "claudine_niyonsaba",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q18712988",
+      "area_id": "Q431385",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "j.m vianney_niyomwungere",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q18712988",
+      "area_id": "Q431385",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "innocent_nitonge",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q18712988",
+      "area_id": "Q431385",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "aline_nininarazwe",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q18712988",
+      "area_id": "Q431385",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "antoine_ngendanzi",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "serges_njebarikanuye",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "odette_bizumuremyi",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "leonie_ndayishimiye",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "pacifique_kaburo",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "medar_nkurunziza",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "micheline_manirakiza",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "innocent_hakizimana",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "richard_nduwimana",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
+      "legislative_period_id": "term/burundian_legislative_elections_of_2020"
+    },
+    {
+      "person_id": "nestor_nduwimana",
+      "organization_id": "legislature",
+      "post_id": "members_of_the_parliament_of_burundi_(q8620066)",
+      "role": "member",
+      "on_behalf_of_id": "Q633163",
+      "area_id": "Q82257",
       "legislative_period_id": "term/burundian_legislative_elections_of_2020"
     }
   ],
@@ -616,12 +1029,12 @@
   ],
   "events": [
     {
-      "id": "Q83965692",
+      "id": "term/2020_burundian_presidential_election_(q83965692)",
       "name": "2020 Burundian presidential election (Q83965692)",
       "classification": "legislative period"
     },
     {
-      "id": "Burundian legislative elections of 2020",
+      "id": "term/burundian_legislative_elections_of_2020",
       "name": "Burundian legislative elections of 2020",
       "classification": "legislative period"
     }
@@ -629,25 +1042,23 @@
   "areas": [
     {
       "id": "Q967",
-      "name": "Country",
+      "name": "BURUNDI",
       "type": "constituency"
     },
     {
       "id": "Q1816580",
-      "name": "Province",
+      "name": "MAIRIE",
+      "type": "constituency"
+    },
+    {
+      "id": "Q431385",
+      "name": "BURURI",
+      "type": "constituency"
+    },
+    {
+      "id": "Q82257",
+      "name": "RUYIGI",
       "type": "constituency"
     }
-  ],
-  "warnings": {
-    "skipped": [
-      "elected",
-      "legislative_membership",
-      "area_parent",
-      "term_id"
-    ],
-    "dupes": [
-      "group_id",
-      "area"
-    ]
-  }
+  ]
 }
